@@ -1,4 +1,4 @@
-velocity
+Fluent Conference
 ========
 
-Slides, links and material for @firt's Velocity Conference tutorial
+Slides, links and material for @firt's Fluent Conference tutorial
