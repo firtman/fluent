@@ -1,6 +1,6 @@
 <!doctype html>
 <meta charset="UTF-8">
-<title>Velocity 2014 Test</title>
+<title>Fluent 2015 Test</title>
 <meta name=viewport content="width=device-width">
 <style>
 
@@ -92,7 +92,7 @@ window.addEventListener("load", function() {
 <script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js<?php echo rand(); ?>"></script>
 <p>
   <footer>
-    Test by <a href="http://twitter.com/firt" target="_blank">@firt</a> for #velocityconf
+    Test by <a href="http://twitter.com/firt" target="_blank">@firt</a> for #fluentconf
   </footer>
 <div id=output>
 <dl><dd>Loading data</dd></dl>
